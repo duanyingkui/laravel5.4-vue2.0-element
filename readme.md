@@ -1,3 +1,6 @@
+Laravel5.4 + Vue2.0 + Element 简单搭建
+ 
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
